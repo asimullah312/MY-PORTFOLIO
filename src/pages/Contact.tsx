@@ -146,7 +146,7 @@ export const Contact = () => {
                   </h2>
                   <div className="font-mono text-sm text-accent-500">
                     <span>$</span>
-                    <span className="text-primary-500 ml-2">cat message_template.txt</span>
+                    <span className="text-primary-500 ml-2">cat Website contact emails are not being delivered; please use my direct email.txt </span>
                   </div>
                 </div>
 
