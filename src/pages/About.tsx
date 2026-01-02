@@ -6,14 +6,14 @@ import { Calendar, MapPin, Code, Zap } from 'lucide-react';
 export const About = () => {
   const timeline = [
     {
-      year: '2023 - Present',
+      year: '2024 - Present',
       title: 'DevOps Engineer',
       company: 'Self-Employed',
       description: 'Working on DevOps projects focusing on cloud automation, CI/CD, and container orchestration using AWS, Docker, and Kubernetes.',
       icon: Code,
     },
     {
-      year: '2019 - 2023',
+      year: '2020 - 2024',
       title: 'Computer Science Graduate',
       company: 'University Of Engineering And Technology Peshawar',
       description: 'Bachelor\'s degree with focus on software engineering and cloud computing.',
