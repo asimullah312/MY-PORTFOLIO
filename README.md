@@ -4,7 +4,7 @@ Ultra-modern portfolio website for DevOps/Cloud Engineers featuring an advanced 
 
 ## 🌟 Live Demo
 
-**[View Live Website →](https://neeraj-devops.vercel.app)**
+**[View Live Website →](https://asimullah.vercel.app/)**
 
 ## ✨ Enhanced Features
 
@@ -191,13 +191,5 @@ MIT License - feel free to use this template for your own portfolio!
 ## 👨‍💻 About
 
 This portfolio showcases DevOps and Cloud Engineering expertise with modern web technologies. Built with a focus on performance, accessibility, and user experience.
-
-## 🔗 Links
-
-- **Live Website**: [https://neeraj-devops.vercel.app](https://neeraj-devops.vercel.app)
-- **GitHub Repository**: [https://github.com/neerajnakka/devops-portfolio](https://github.com/neerajnakka/devops-portfolio)
-- **Personal GitHub**: [https://github.com/neerajnakka](https://github.com/neerajnakka)
-
----
 
 *Built with ❤️ using React, TypeScript, and modern web technologies*
