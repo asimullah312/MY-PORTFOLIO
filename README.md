@@ -61,7 +61,7 @@ Ultra-modern portfolio website for DevOps/Cloud Engineers featuring an advanced 
 
 ```bash
 # Clone the repository
-git clone https://github.com/neerajnakka/devops-portfolio.git
+git clone https://https://github.com/asimullah312/MY-PORTFOLIO.git
 cd devops-portfolio
 
 # Install dependencies
@@ -100,12 +100,6 @@ Update content in component files:
 ## 🚀 Deployment
 
 The project is configured for seamless deployment on Vercel:
-
-### **Automatic Deployment**
-- Changes pushed to `main` branch trigger automatic builds
-- Deployment status available at: [Vercel Dashboard](https://vercel.com/neerajnakka/devops-portfolio)
-- Custom domain support included
-
 ### **Manual Deployment**
 ```bash
 # Build and deploy
